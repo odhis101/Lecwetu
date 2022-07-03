@@ -36,8 +36,9 @@ include ('config.php');
         <img class="navMenu" src="assets/img/burger-menu.png" alt="menu-icon" onclick="navMenuToggle">
         <a href="index.php"> <img src="assets/img/logo.png" alt="logo"></a>
         <div class="loginBtns <?php echo $active;?> "> <!-- this shouldn't show if the user is logged in -->
-            <button class="loginBtn" type="submit">Login</button>
-            <button class="signUpBtn" type="submit">Sign Up</button>
+            <button onclick="window.location.href='login.php'"class="loginBtn" type="submit">Login</button>
+            <button onclick="window.location.href='signup.php'" class="signUpBtn" type="submit">Sign Up</button>
+            
         </div>
       
         <div class="active-login <?php echo $inactive;?> "> <!-- this should show if the user is signed in -->

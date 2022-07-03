@@ -1,13 +1,15 @@
 
 <?php
 # run a sql query to getting proff_id and user_id if it returns empty we can continue 
+if(isset($_SESSION['id'])){
+
 $sql4="SELECT * FROM ratings WHERE user_id = $user_id AND proff_id = $id";
 $res4=mysqli_query($conn,$sql4);
 $sql = "SELECT * FROM professors WHERE id = '$id'";
 $res = mysqli_query($conn,$sql);
 $count4 = mysqli_num_rows($res4);
  if ($count4>0){
-   $_SESSION["user_message"] = "You can only rate once";
+   $_SESSION["user_message"] = "<p>You can only rate once </p>";
    header('Location: lecturer.php?lec_id='.$id);
 
  
@@ -51,7 +53,10 @@ $count4 = mysqli_num_rows($res4);
        }
      }
   }
- 
+}
+else{
+  header('location:login.php');
+} 
  ?>
 
 

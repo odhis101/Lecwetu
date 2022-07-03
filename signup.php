@@ -88,8 +88,7 @@ include ('components/config.php'); ?>
           </section>
       </div>
           
-          <script src="assets/javascript/show-pass.js" async defer></script>
-          <script src="assets/javascript/signup.js" async defer></script>
+        
   
       </body>
   

@@ -1,5 +1,13 @@
 
 <div class="lecReviewsHero">
+    <div class = error-message-container>
+        <p> </p>
+    
+    <?php include ("components/messages.php");
+    ?>
+
+
+         </div>
     <p class="reviewsTitle">Lecturer <span>Reviews</span></p>
     <?php
     $sql2 = "SELECT * FROM ratings  WHERE proff_id = '$id'"; // thats works barely we also need to insert this when the user is rating 

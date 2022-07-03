@@ -12,7 +12,7 @@
 <?php 
 error_reporting(E_ALL ^ E_WARNING);  
 include ("components/navbar.php");
-include ("components/messages.php");
+
 include ("components/displayingLecDetails.php");
 ?>
 
@@ -26,7 +26,10 @@ include ("components/displayingLecDetails.php");
         </div>
 
         <div class="lecturerHero">
+            
+            
             <div class="lecturerDetails">
+                
                 <h2 id="lecturerName" ><?php echo  $name ?></h2>
                 <p><?php echo  $university ?></p>
                 <p class="overallRating">Overall Rating <span class="meanRating"><?php echo round($average); ?></span></p>
