@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<?php include ('components/config.php'); ?>
+<?php include ('components/config.php');
+session_start()?>
 
 <!DOCTYPE html>
     <head>
@@ -37,18 +38,19 @@
 			<?php
 
 if(isset($_POST['submit'])){
+
                      
      $username = $_POST['username']; // getting the search inputs 
      $password = $_POST['password'];
      $sql = "SELECT * FROM users WHERE username = '$username' AND password = '$password'";
-    
     $result = mysqli_query($conn, $sql);
     
     $count = mysqli_num_rows($result);
     
     if($count > 0){
-		$id = $row['id'];
-		$_SESSION['id'] = $id;
+        $row = mysqli_fetch_array($result);
+		echo $id = $row['id'];
+		$_SESSION['id'] = $id; 
         header("location: index.php");
     }
     else{
