@@ -1,29 +1,82 @@
+from hashlib import new
+import mysql.connector
 from bs4 import BeautifulSoup
 import requests 
+
+
+def insert_into_proff (proffesors):
+    
+    mydb = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="",
+    database="ratemyprroffesor"
+    )
+    mycursor = mydb.cursor()
+   
+    for i in proffesors:
+        sql = "INSERT INTO professors (name, university) VALUES (%s,%s)"
+        val = (i, 'USIU')
+        mycursor.execute(sql, val)
+        mydb.commit()
+        print(mycursor.rowcount, "record inserted.")
+    
+    
+    
+
 # here we will get data from the usiu website 
 
 def get_proffesors_usiu():
     bus_url ='https://www.usiu.ac.ke/faculty/?schl'
     result = requests.get(bus_url)
     doc = BeautifulSoup(result.text, 'html.parser')
-    bussiness_proffs = doc.find_all("a",class_='menu-column-main linkCont')  # this gives the divs with the proffesor names
-    #print (prices.contents[-1]) # this gets the name of the proffesor 
-
-
-    # what needs to happen here is we make a query treating the list_of_proffs as we treated result 
-
+    bussiness_proffs = doc.find_all("a",class_='menu-column-main linkCont')
     proffesors = []
+
+  
     for i in bussiness_proffs:
         proffesors.append (i.contents[-1])
     return (proffesors)
-def get_proffesors_strathmore():
-    bus_url ='https://sbs.strathmore.edu/faculty/'
-    result = requests.get(bus_url)
-    doc = BeautifulSoup(result.text, 'html.parser')
-    bussiness_proffs = doc.find_all("h2",class_='blog-shortcode-post-title entry-title') # this gives the divs with the proffesor names
-    for i in bussiness_proffs:
-       print (i.text)
+
+def manually_add_proffers ():
+    new_proffs =["Kariuki, Lucy Nyawira ","Mbogo, Marion Njeri","Owuor, John David_Ouma",
+    "Gitahi, Jesse Elikanah_Machirah","Barasa, Constantine Mulondanome","Omboi, Bernard Messah",
+    "Mandela, Japheth Isaboke","Nyabere, Emily","Mwalili, Tobias Mbithi","Mwangi, Cyrus Wanjohi",
+    "Munyao, Isabella K","Mandela, Japheth Isaboke","Githinji, Keziah Wangui","Wamalwa, Moses Kevin",
+    "Khamala, Martin_Aaron Nawayo","Nderu, Lawrence","Sifuna, Austin Makokha","Anyango, Jecton Tocho",
+    "Thuku, Lawrence Waweru","Ondieki, Benard Odhiambo","Chege, Gerald W","Gachukia, Jennifer Wangari",
+    "Basweti, Kevin Ogachi","Aloo, Linus Alwal","Oteri, Malack Omae","Kayeyia, Ernest Madara ","Nyete, Abraham Mutunga",
+    "Kogo, Vincent Kibet","Wangai, Njoroge Mambo","Mwalili, Tobias Mbithi","Gachanga, Esther Wanjiru",
+    "Oriedi, David Opondo","Alukwe, Chrispus Akhonya ","Okanya, Patrick Wafula_Simiyu","Muendo, Daniel",
+    "Njoroge, Gladys Gakenia","Bichanga, Lawrence Areba","Ochieng, Emmanuel Owino","Kamau, Esther Njambi",
+    "Oluoch, Fred Ochieng","Gachago, Philip Muriithi","Wafula, Maurine Maraka","Kiptum, Purity Jebotibin",
+   "Muchiri, Catherine Wanjiru","Ogola, Mary Ganga","Akuma, Samson Mainye","Ouma,, Duncan Ochieng","Odendo, Moses ",
+    "Kinyulusi, Leonard","Kamuri, Simon","Muhonza, Prescott","Ochola, Phares B","Mbugua, Levi Ng'ang'a","Musebe, Edward Achieng",
+    "Muriu, Marylyn Doreen","Muriu, Marylyn Doreen ","Musuva, Gladys Mwende","Were, Jane N.","Muraguri, Charity Wairimu",
+    "Kaluyu, Veronicah","Mbotu, Michael Mulandi","Maore, Stephen K.","Musebe, Edward Achieng","Sule, Odhiambo F.E","Joseph, Muchina",
+    "Newa, Fred Omondi","Kiarie, Caroline","Mbutu, Paul Mutinda","Noah, Naumih M","Muhanji, Clare Imbosa",
+     "Amuhaya, Edith Khavwajira","Mbugua, Wanjiku ","Ooko, Maureen Achieng","Otieno, Symon_Peter Victor","Owuor, Benard O",
+     "Otieno, Elizabeth M","Sungi, Simeon P.","Muchemi, Joyce Karungari","Odhiambo, Terry J","Cooper, Christopher","Arasa, Josephine",
+     "Mohamed, Hussein Abd","Ogada, Agnes Owuor","Mwangi, Peterson Kimiru","Lio, Sammy A.N","Mbugua, Peter Getyngo","Magut, Zuhra C.",
+     "Jefwa, Judith Jai_Jaleha","Okello, Gabriel","Kamanu, Timothy_Kevin Kuria","Kimani, Larry M ","Bichanga, Lawrence Areba","Kamau, Joseph",
+     "K'aol, George O","Njoroge, Geoffrey Githu","Gitimu, Susan Nyawira","Mulinya, Sheila Joy","Ogore, Fredrick Michae","Ouma, Judy Aluoch",
+     "Ouma, Zackayo Omolo","Kimani, Gabriel","Njoroge, Martin Chege","Irumbi, Ruth Wangechi","Owili, Florence Akinyi","Ali, Fatuma Ahmed","Muendo, Daniel",
+     "Kioni, Benson Muthoga","Bwangah, Martin Luther","Wokabi, Francis Mwangi","Muchiri, Jane"]
+
+     # i have inserted this date in db now if you want to add into it you have to do if i in new proffs command 
+    new_proffs_two= []
+    for i in  new_proffs_two:
+        if i in new_proffs:
+            pass
+        else:
+            print(i)
+            # here is where you want to appen 
+
+    return 
+
 
 if __name__ == '__main__':
-   usiu_proffs= get_proffesors_usiu()
-   get_proffesors_strathmore()
+   #usiu_proffs= get_proffesors_usiu()
+   
+   manually_add_proffers ()
+   #insert_into_proff(usiu_proffs)
