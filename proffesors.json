@@ -1,0 +1,1843 @@
+{
+ "schools": [
+  {
+   "name": "Chandaria School of Business",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    }
+   ]
+  },
+  {
+   "name": "School of Humanities and Social Sciences",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    },
+    {
+     "name": "Prof. Njoroge, Martin C."
+    },
+    {
+     "name": "Angelina Nduku Kioko, PhD"
+    },
+    {
+     "name": "Dr. Kihara, Michael"
+    },
+    {
+     "name": "Amb. Prof. Rono, Ruthie"
+    },
+    {
+     "name": "Abdullahi, Mohamed Sharawe"
+    },
+    {
+     "name": "Ali, Fatuma, PhD"
+    },
+    {
+     "name": "Brown, Dana Basnight, PhD"
+    },
+    {
+     "name": "Buyu, Mathew, PhD"
+    },
+    {
+     "name": "Dr. Awuor, Quin Elizabeth"
+    },
+    {
+     "name": "Dr. Gromov, Mikhail"
+    },
+    {
+     "name": "Dr. Khayundi, Francis Bulimo"
+    },
+    {
+     "name": "Dr. Moses Onyango"
+    },
+    {
+     "name": "Dr. Mwangi, Peterson Kimiru"
+    },
+    {
+     "name": "Dr. Njoki Wamai, PhD"
+    },
+    {
+     "name": "Dr. Nyagwencha, Stella Kemuma"
+    },
+    {
+     "name": "Dr. Nyarigoti, Naom Moraa"
+    },
+    {
+     "name": "Dr. Rubio Gijon, Pablo"
+    },
+    {
+     "name": "Dr. Waithima, Charity Wangui"
+    },
+    {
+     "name": "Jane Nzisa Muasya"
+    },
+    {
+     "name": "Kaburu, Mercy Kathambi, PhD"
+    },
+    {
+     "name": "Kangethe, Fredrick, PhD"
+    },
+    {
+     "name": "Karume, Michelle, PhD"
+    },
+    {
+     "name": "Magut, Zuhra"
+    },
+    {
+     "name": "Mbugua, Peter"
+    },
+    {
+     "name": "Mrs. Newa, Elsie Opiyo"
+    },
+    {
+     "name": "Ms. Ambiyo, Sarah B."
+    },
+    {
+     "name": "Ms. Mbugua, Wanjiku"
+    },
+    {
+     "name": "Munene, Karega, PhD"
+    },
+    {
+     "name": "Munyae, Margaret, PhD"
+    },
+    {
+     "name": "Munyi Elijah, PhD"
+    },
+    {
+     "name": "Musau, Josephine Ndanu, PhD"
+    },
+    {
+     "name": "Nakamura, Katsuji"
+    },
+    {
+     "name": "Ndungu, Tabitha, PhD"
+    },
+    {
+     "name": "Njoroge, Joseph"
+    },
+    {
+     "name": "Njoroge, Margaret Wanjiku, PhD"
+    },
+    {
+     "name": "Njoroge, Simon Githaiga"
+    },
+    {
+     "name": "Otieno, Elizabeth"
+    },
+    {
+     "name": "Prof. Mkutu, Kennedy Agade"
+    },
+    {
+     "name": "Professor Mulinge, Munyae"
+    },
+    {
+     "name": "Sang, Francis, PhD"
+    },
+    {
+     "name": "Simeon P. Sungi, PhD, LLM"
+    },
+    {
+     "name": "Terry, Odhiambo"
+    },
+    {
+     "name": "Wambalaba, Akosa"
+    },
+    {
+     "name": "Ylonen, Aleksi, PhD"
+    },
+    {
+     "name": "Dr. Arasa, Josephine, PhD"
+    },
+    {
+     "name": "Plana Freixas, María del Rocío"
+    },
+    {
+     "name": "Dr. Maiyo, Joshua K."
+    }
+   ]
+  },
+  {
+   "name": "School of Science and Technology",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    },
+    {
+     "name": "Prof. Njoroge, Martin C."
+    },
+    {
+     "name": "Angelina Nduku Kioko, PhD"
+    },
+    {
+     "name": "Dr. Kihara, Michael"
+    },
+    {
+     "name": "Amb. Prof. Rono, Ruthie"
+    },
+    {
+     "name": "Abdullahi, Mohamed Sharawe"
+    },
+    {
+     "name": "Ali, Fatuma, PhD"
+    },
+    {
+     "name": "Brown, Dana Basnight, PhD"
+    },
+    {
+     "name": "Buyu, Mathew, PhD"
+    },
+    {
+     "name": "Dr. Awuor, Quin Elizabeth"
+    },
+    {
+     "name": "Dr. Gromov, Mikhail"
+    },
+    {
+     "name": "Dr. Khayundi, Francis Bulimo"
+    },
+    {
+     "name": "Dr. Moses Onyango"
+    },
+    {
+     "name": "Dr. Mwangi, Peterson Kimiru"
+    },
+    {
+     "name": "Dr. Njoki Wamai, PhD"
+    },
+    {
+     "name": "Dr. Nyagwencha, Stella Kemuma"
+    },
+    {
+     "name": "Dr. Nyarigoti, Naom Moraa"
+    },
+    {
+     "name": "Dr. Rubio Gijon, Pablo"
+    },
+    {
+     "name": "Dr. Waithima, Charity Wangui"
+    },
+    {
+     "name": "Jane Nzisa Muasya"
+    },
+    {
+     "name": "Kaburu, Mercy Kathambi, PhD"
+    },
+    {
+     "name": "Kangethe, Fredrick, PhD"
+    },
+    {
+     "name": "Karume, Michelle, PhD"
+    },
+    {
+     "name": "Magut, Zuhra"
+    },
+    {
+     "name": "Mbugua, Peter"
+    },
+    {
+     "name": "Mrs. Newa, Elsie Opiyo"
+    },
+    {
+     "name": "Ms. Ambiyo, Sarah B."
+    },
+    {
+     "name": "Ms. Mbugua, Wanjiku"
+    },
+    {
+     "name": "Munene, Karega, PhD"
+    },
+    {
+     "name": "Munyae, Margaret, PhD"
+    },
+    {
+     "name": "Munyi Elijah, PhD"
+    },
+    {
+     "name": "Musau, Josephine Ndanu, PhD"
+    },
+    {
+     "name": "Nakamura, Katsuji"
+    },
+    {
+     "name": "Ndungu, Tabitha, PhD"
+    },
+    {
+     "name": "Njoroge, Joseph"
+    },
+    {
+     "name": "Njoroge, Margaret Wanjiku, PhD"
+    },
+    {
+     "name": "Njoroge, Simon Githaiga"
+    },
+    {
+     "name": "Otieno, Elizabeth"
+    },
+    {
+     "name": "Prof. Mkutu, Kennedy Agade"
+    },
+    {
+     "name": "Professor Mulinge, Munyae"
+    },
+    {
+     "name": "Sang, Francis, PhD"
+    },
+    {
+     "name": "Simeon P. Sungi, PhD, LLM"
+    },
+    {
+     "name": "Terry, Odhiambo"
+    },
+    {
+     "name": "Wambalaba, Akosa"
+    },
+    {
+     "name": "Ylonen, Aleksi, PhD"
+    },
+    {
+     "name": "Dr. Arasa, Josephine, PhD"
+    },
+    {
+     "name": "Plana Freixas, María del Rocío"
+    },
+    {
+     "name": "Dr. Maiyo, Joshua K."
+    },
+    {
+     "name": "Dr Collins Oduor Ondiek, PhD"
+    },
+    {
+     "name": "Dr. Githinji, Stanley Muturi"
+    },
+    {
+     "name": "Dr. Jonnalagadda, Venkateswara Rao"
+    },
+    {
+     "name": "Dr. Leah Mutanu Mwaura"
+    },
+    {
+     "name": "Dr. Musuva, Paula"
+    },
+    {
+     "name": "Dr. Ndirangu, Dalton K."
+    },
+    {
+     "name": "Dr. Paul M. Okanda"
+    },
+    {
+     "name": "Gabriel Okello, PhD"
+    },
+    {
+     "name": "Jimmy K. N. Macharia, PhD"
+    },
+    {
+     "name": "Joshua Rumo A. Ndiege, PhD"
+    },
+    {
+     "name": "Justus Nyamweya Nyagwencha, PhD"
+    },
+    {
+     "name": "Patrick Afundi"
+    },
+    {
+     "name": "Patrick Kanyi Wamuyu, PhD"
+    },
+    {
+     "name": "Phillip Gichaba Machoka"
+    },
+    {
+     "name": "Prof. Audrey Julia Waleghwa Mbogho"
+    },
+    {
+     "name": "Prof. Valerie Adema Palapala"
+    }
+   ]
+  },
+  {
+   "name": "School of Graduate Studies, Research and Extension",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    },
+    {
+     "name": "Prof. Njoroge, Martin C."
+    },
+    {
+     "name": "Angelina Nduku Kioko, PhD"
+    },
+    {
+     "name": "Dr. Kihara, Michael"
+    },
+    {
+     "name": "Amb. Prof. Rono, Ruthie"
+    },
+    {
+     "name": "Abdullahi, Mohamed Sharawe"
+    },
+    {
+     "name": "Ali, Fatuma, PhD"
+    },
+    {
+     "name": "Brown, Dana Basnight, PhD"
+    },
+    {
+     "name": "Buyu, Mathew, PhD"
+    },
+    {
+     "name": "Dr. Awuor, Quin Elizabeth"
+    },
+    {
+     "name": "Dr. Gromov, Mikhail"
+    },
+    {
+     "name": "Dr. Khayundi, Francis Bulimo"
+    },
+    {
+     "name": "Dr. Moses Onyango"
+    },
+    {
+     "name": "Dr. Mwangi, Peterson Kimiru"
+    },
+    {
+     "name": "Dr. Njoki Wamai, PhD"
+    },
+    {
+     "name": "Dr. Nyagwencha, Stella Kemuma"
+    },
+    {
+     "name": "Dr. Nyarigoti, Naom Moraa"
+    },
+    {
+     "name": "Dr. Rubio Gijon, Pablo"
+    },
+    {
+     "name": "Dr. Waithima, Charity Wangui"
+    },
+    {
+     "name": "Jane Nzisa Muasya"
+    },
+    {
+     "name": "Kaburu, Mercy Kathambi, PhD"
+    },
+    {
+     "name": "Kangethe, Fredrick, PhD"
+    },
+    {
+     "name": "Karume, Michelle, PhD"
+    },
+    {
+     "name": "Magut, Zuhra"
+    },
+    {
+     "name": "Mbugua, Peter"
+    },
+    {
+     "name": "Mrs. Newa, Elsie Opiyo"
+    },
+    {
+     "name": "Ms. Ambiyo, Sarah B."
+    },
+    {
+     "name": "Ms. Mbugua, Wanjiku"
+    },
+    {
+     "name": "Munene, Karega, PhD"
+    },
+    {
+     "name": "Munyae, Margaret, PhD"
+    },
+    {
+     "name": "Munyi Elijah, PhD"
+    },
+    {
+     "name": "Musau, Josephine Ndanu, PhD"
+    },
+    {
+     "name": "Nakamura, Katsuji"
+    },
+    {
+     "name": "Ndungu, Tabitha, PhD"
+    },
+    {
+     "name": "Njoroge, Joseph"
+    },
+    {
+     "name": "Njoroge, Margaret Wanjiku, PhD"
+    },
+    {
+     "name": "Njoroge, Simon Githaiga"
+    },
+    {
+     "name": "Otieno, Elizabeth"
+    },
+    {
+     "name": "Prof. Mkutu, Kennedy Agade"
+    },
+    {
+     "name": "Professor Mulinge, Munyae"
+    },
+    {
+     "name": "Sang, Francis, PhD"
+    },
+    {
+     "name": "Simeon P. Sungi, PhD, LLM"
+    },
+    {
+     "name": "Terry, Odhiambo"
+    },
+    {
+     "name": "Wambalaba, Akosa"
+    },
+    {
+     "name": "Ylonen, Aleksi, PhD"
+    },
+    {
+     "name": "Dr. Arasa, Josephine, PhD"
+    },
+    {
+     "name": "Plana Freixas, María del Rocío"
+    },
+    {
+     "name": "Dr. Maiyo, Joshua K."
+    },
+    {
+     "name": "Dr Collins Oduor Ondiek, PhD"
+    },
+    {
+     "name": "Dr. Githinji, Stanley Muturi"
+    },
+    {
+     "name": "Dr. Jonnalagadda, Venkateswara Rao"
+    },
+    {
+     "name": "Dr. Leah Mutanu Mwaura"
+    },
+    {
+     "name": "Dr. Musuva, Paula"
+    },
+    {
+     "name": "Dr. Ndirangu, Dalton K."
+    },
+    {
+     "name": "Dr. Paul M. Okanda"
+    },
+    {
+     "name": "Gabriel Okello, PhD"
+    },
+    {
+     "name": "Jimmy K. N. Macharia, PhD"
+    },
+    {
+     "name": "Joshua Rumo A. Ndiege, PhD"
+    },
+    {
+     "name": "Justus Nyamweya Nyagwencha, PhD"
+    },
+    {
+     "name": "Patrick Afundi"
+    },
+    {
+     "name": "Patrick Kanyi Wamuyu, PhD"
+    },
+    {
+     "name": "Phillip Gichaba Machoka"
+    },
+    {
+     "name": "Prof. Audrey Julia Waleghwa Mbogho"
+    },
+    {
+     "name": "Prof. Valerie Adema Palapala"
+    },
+    {
+     "name": "Prof. Amos Gitau Njuguna"
+    }
+   ]
+  },
+  {
+   "name": "School of Pharmacy and Health Sciences",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    },
+    {
+     "name": "Prof. Njoroge, Martin C."
+    },
+    {
+     "name": "Angelina Nduku Kioko, PhD"
+    },
+    {
+     "name": "Dr. Kihara, Michael"
+    },
+    {
+     "name": "Amb. Prof. Rono, Ruthie"
+    },
+    {
+     "name": "Abdullahi, Mohamed Sharawe"
+    },
+    {
+     "name": "Ali, Fatuma, PhD"
+    },
+    {
+     "name": "Brown, Dana Basnight, PhD"
+    },
+    {
+     "name": "Buyu, Mathew, PhD"
+    },
+    {
+     "name": "Dr. Awuor, Quin Elizabeth"
+    },
+    {
+     "name": "Dr. Gromov, Mikhail"
+    },
+    {
+     "name": "Dr. Khayundi, Francis Bulimo"
+    },
+    {
+     "name": "Dr. Moses Onyango"
+    },
+    {
+     "name": "Dr. Mwangi, Peterson Kimiru"
+    },
+    {
+     "name": "Dr. Njoki Wamai, PhD"
+    },
+    {
+     "name": "Dr. Nyagwencha, Stella Kemuma"
+    },
+    {
+     "name": "Dr. Nyarigoti, Naom Moraa"
+    },
+    {
+     "name": "Dr. Rubio Gijon, Pablo"
+    },
+    {
+     "name": "Dr. Waithima, Charity Wangui"
+    },
+    {
+     "name": "Jane Nzisa Muasya"
+    },
+    {
+     "name": "Kaburu, Mercy Kathambi, PhD"
+    },
+    {
+     "name": "Kangethe, Fredrick, PhD"
+    },
+    {
+     "name": "Karume, Michelle, PhD"
+    },
+    {
+     "name": "Magut, Zuhra"
+    },
+    {
+     "name": "Mbugua, Peter"
+    },
+    {
+     "name": "Mrs. Newa, Elsie Opiyo"
+    },
+    {
+     "name": "Ms. Ambiyo, Sarah B."
+    },
+    {
+     "name": "Ms. Mbugua, Wanjiku"
+    },
+    {
+     "name": "Munene, Karega, PhD"
+    },
+    {
+     "name": "Munyae, Margaret, PhD"
+    },
+    {
+     "name": "Munyi Elijah, PhD"
+    },
+    {
+     "name": "Musau, Josephine Ndanu, PhD"
+    },
+    {
+     "name": "Nakamura, Katsuji"
+    },
+    {
+     "name": "Ndungu, Tabitha, PhD"
+    },
+    {
+     "name": "Njoroge, Joseph"
+    },
+    {
+     "name": "Njoroge, Margaret Wanjiku, PhD"
+    },
+    {
+     "name": "Njoroge, Simon Githaiga"
+    },
+    {
+     "name": "Otieno, Elizabeth"
+    },
+    {
+     "name": "Prof. Mkutu, Kennedy Agade"
+    },
+    {
+     "name": "Professor Mulinge, Munyae"
+    },
+    {
+     "name": "Sang, Francis, PhD"
+    },
+    {
+     "name": "Simeon P. Sungi, PhD, LLM"
+    },
+    {
+     "name": "Terry, Odhiambo"
+    },
+    {
+     "name": "Wambalaba, Akosa"
+    },
+    {
+     "name": "Ylonen, Aleksi, PhD"
+    },
+    {
+     "name": "Dr. Arasa, Josephine, PhD"
+    },
+    {
+     "name": "Plana Freixas, María del Rocío"
+    },
+    {
+     "name": "Dr. Maiyo, Joshua K."
+    },
+    {
+     "name": "Dr Collins Oduor Ondiek, PhD"
+    },
+    {
+     "name": "Dr. Githinji, Stanley Muturi"
+    },
+    {
+     "name": "Dr. Jonnalagadda, Venkateswara Rao"
+    },
+    {
+     "name": "Dr. Leah Mutanu Mwaura"
+    },
+    {
+     "name": "Dr. Musuva, Paula"
+    },
+    {
+     "name": "Dr. Ndirangu, Dalton K."
+    },
+    {
+     "name": "Dr. Paul M. Okanda"
+    },
+    {
+     "name": "Gabriel Okello, PhD"
+    },
+    {
+     "name": "Jimmy K. N. Macharia, PhD"
+    },
+    {
+     "name": "Joshua Rumo A. Ndiege, PhD"
+    },
+    {
+     "name": "Justus Nyamweya Nyagwencha, PhD"
+    },
+    {
+     "name": "Patrick Afundi"
+    },
+    {
+     "name": "Patrick Kanyi Wamuyu, PhD"
+    },
+    {
+     "name": "Phillip Gichaba Machoka"
+    },
+    {
+     "name": "Prof. Audrey Julia Waleghwa Mbogho"
+    },
+    {
+     "name": "Prof. Valerie Adema Palapala"
+    },
+    {
+     "name": "Prof. Amos Gitau Njuguna"
+    },
+    {
+     "name": "Dr. Francis Abuga Ndemo"
+    },
+    {
+     "name": "Dr. Jonathan Mwangi"
+    },
+    {
+     "name": "Dr. Betty Mbatia"
+    },
+    {
+     "name": "Dr. Were Lincoln Munyendo"
+    },
+    {
+     "name": "Dr. Jonathan Mwangi - External Research Grant"
+    },
+    {
+     "name": "Cyprian Mose Nyaribo"
+    },
+    {
+     "name": "Dr. Amuhaya, Edith Khavwajira"
+    },
+    {
+     "name": "Dr. Apollo Odhiambo Maima"
+    },
+    {
+     "name": "Dr. Betty Mbatia - External Research Grant"
+    },
+    {
+     "name": "Dr. Betty N. Mbatia"
+    },
+    {
+     "name": "Dr. Caroline Kahiri"
+    },
+    {
+     "name": "Dr. Defersha, Amsalu Degu"
+    },
+    {
+     "name": "Dr. Eliab Seroney Some"
+    },
+    {
+     "name": "Dr. Max Maina Muniafu"
+    },
+    {
+     "name": "Dr. Mwangi, Jonathan"
+    },
+    {
+     "name": "Dr. Noah, Naumih M."
+    },
+    {
+     "name": "Dr. Were Lincoln L. Munyendo"
+    },
+    {
+     "name": "Dr. Yasodha, Krishna Janapati"
+    },
+    {
+     "name": "Ermias, Mergia Terefe"
+    },
+    {
+     "name": "James Onyango Obila"
+    },
+    {
+     "name": "Mr. Isaac Chuma"
+    },
+    {
+     "name": "Mrs. Susan Nyambura"
+    },
+    {
+     "name": "Professor Njeri Wamae"
+    },
+    {
+     "name": "Dr. Were Lincoln Munyendo - External Research Grant"
+    }
+   ]
+  },
+  {
+   "name": "School of Communication, Cinematic and Creative Arts",
+   "selection1": [
+    {
+     "name": "Dr. Koshal Ntaloi Jeremiah"
+    },
+    {
+     "name": "Dr. Kibet Morusoi Eric"
+    },
+    {
+     "name": "Dr. Ogada, Agnes Owuor"
+    },
+    {
+     "name": "Dr. Okech Timothy Chrispinus"
+    },
+    {
+     "name": "Dr. Kaluyu Kaindi Veronicah"
+    },
+    {
+     "name": "Mr. David W. Nerubucha"
+    },
+    {
+     "name": "Dr. Achoki George Otieno"
+    },
+    {
+     "name": "Dr. Kalunda Elizabeth Nthambi"
+    },
+    {
+     "name": "Dr. Njenga Kefah Muiruri"
+    },
+    {
+     "name": "Christopher Barak"
+    },
+    {
+     "name": "Dr. Amos G. Njuguna"
+    },
+    {
+     "name": "Dr. Getecha Ciru"
+    },
+    {
+     "name": "Dr. K'Aol George Ondego"
+    },
+    {
+     "name": "Dr. Kamau Joseph Ngugi"
+    },
+    {
+     "name": "Dr. Kangu Adhiambo Maureen"
+    },
+    {
+     "name": "Dr. Kiriri Peter"
+    },
+    {
+     "name": "Dr. Maina Muchara"
+    },
+    {
+     "name": "Dr. Muraguri, Charity Wairimu"
+    },
+    {
+     "name": "Dr. Namada Juliana"
+    },
+    {
+     "name": "Dr. Ndegwa Joyce Watetu"
+    },
+    {
+     "name": "Dr. Nduati Gidraph J"
+    },
+    {
+     "name": "Dr. Odoyo Selefano Fredrick"
+    },
+    {
+     "name": "Dr. Omboi Bernard"
+    },
+    {
+     "name": "Dr. San Lio"
+    },
+    {
+     "name": "Dr. Teresia Linge"
+    },
+    {
+     "name": "Dr. Wachana Paul"
+    },
+    {
+     "name": "Emily Jepkemoi"
+    },
+    {
+     "name": "Gatumo, Francis Mambo, PhD"
+    },
+    {
+     "name": "Isaac Chuma"
+    },
+    {
+     "name": "Karanja Catherine W."
+    },
+    {
+     "name": "Newa, Fred"
+    },
+    {
+     "name": "Prof. James Ngari Karimi"
+    },
+    {
+     "name": "Prof. Nyambegera Stephen M"
+    },
+    {
+     "name": "Professor Damary Sikalieh"
+    },
+    {
+     "name": "Shadrack Lomoywara"
+    },
+    {
+     "name": "Virginia Thuku"
+    },
+    {
+     "name": "Wainaina Samuel"
+    },
+    {
+     "name": "Dr. Katuse Paul"
+    },
+    {
+     "name": "Prof. Ouma, Caren Akomo"
+    },
+    {
+     "name": "Prof. Wambalaba Francis"
+    },
+    {
+     "name": "Prof. Njoroge, Martin C."
+    },
+    {
+     "name": "Angelina Nduku Kioko, PhD"
+    },
+    {
+     "name": "Dr. Kihara, Michael"
+    },
+    {
+     "name": "Amb. Prof. Rono, Ruthie"
+    },
+    {
+     "name": "Abdullahi, Mohamed Sharawe"
+    },
+    {
+     "name": "Ali, Fatuma, PhD"
+    },
+    {
+     "name": "Brown, Dana Basnight, PhD"
+    },
+    {
+     "name": "Buyu, Mathew, PhD"
+    },
+    {
+     "name": "Dr. Awuor, Quin Elizabeth"
+    },
+    {
+     "name": "Dr. Gromov, Mikhail"
+    },
+    {
+     "name": "Dr. Khayundi, Francis Bulimo"
+    },
+    {
+     "name": "Dr. Moses Onyango"
+    },
+    {
+     "name": "Dr. Mwangi, Peterson Kimiru"
+    },
+    {
+     "name": "Dr. Njoki Wamai, PhD"
+    },
+    {
+     "name": "Dr. Nyagwencha, Stella Kemuma"
+    },
+    {
+     "name": "Dr. Nyarigoti, Naom Moraa"
+    },
+    {
+     "name": "Dr. Rubio Gijon, Pablo"
+    },
+    {
+     "name": "Dr. Waithima, Charity Wangui"
+    },
+    {
+     "name": "Jane Nzisa Muasya"
+    },
+    {
+     "name": "Kaburu, Mercy Kathambi, PhD"
+    },
+    {
+     "name": "Kangethe, Fredrick, PhD"
+    },
+    {
+     "name": "Karume, Michelle, PhD"
+    },
+    {
+     "name": "Magut, Zuhra"
+    },
+    {
+     "name": "Mbugua, Peter"
+    },
+    {
+     "name": "Mrs. Newa, Elsie Opiyo"
+    },
+    {
+     "name": "Ms. Ambiyo, Sarah B."
+    },
+    {
+     "name": "Ms. Mbugua, Wanjiku"
+    },
+    {
+     "name": "Munene, Karega, PhD"
+    },
+    {
+     "name": "Munyae, Margaret, PhD"
+    },
+    {
+     "name": "Munyi Elijah, PhD"
+    },
+    {
+     "name": "Musau, Josephine Ndanu, PhD"
+    },
+    {
+     "name": "Nakamura, Katsuji"
+    },
+    {
+     "name": "Ndungu, Tabitha, PhD"
+    },
+    {
+     "name": "Njoroge, Joseph"
+    },
+    {
+     "name": "Njoroge, Margaret Wanjiku, PhD"
+    },
+    {
+     "name": "Njoroge, Simon Githaiga"
+    },
+    {
+     "name": "Otieno, Elizabeth"
+    },
+    {
+     "name": "Prof. Mkutu, Kennedy Agade"
+    },
+    {
+     "name": "Professor Mulinge, Munyae"
+    },
+    {
+     "name": "Sang, Francis, PhD"
+    },
+    {
+     "name": "Simeon P. Sungi, PhD, LLM"
+    },
+    {
+     "name": "Terry, Odhiambo"
+    },
+    {
+     "name": "Wambalaba, Akosa"
+    },
+    {
+     "name": "Ylonen, Aleksi, PhD"
+    },
+    {
+     "name": "Dr. Arasa, Josephine, PhD"
+    },
+    {
+     "name": "Plana Freixas, María del Rocío"
+    },
+    {
+     "name": "Dr. Maiyo, Joshua K."
+    },
+    {
+     "name": "Dr Collins Oduor Ondiek, PhD"
+    },
+    {
+     "name": "Dr. Githinji, Stanley Muturi"
+    },
+    {
+     "name": "Dr. Jonnalagadda, Venkateswara Rao"
+    },
+    {
+     "name": "Dr. Leah Mutanu Mwaura"
+    },
+    {
+     "name": "Dr. Musuva, Paula"
+    },
+    {
+     "name": "Dr. Ndirangu, Dalton K."
+    },
+    {
+     "name": "Dr. Paul M. Okanda"
+    },
+    {
+     "name": "Gabriel Okello, PhD"
+    },
+    {
+     "name": "Jimmy K. N. Macharia, PhD"
+    },
+    {
+     "name": "Joshua Rumo A. Ndiege, PhD"
+    },
+    {
+     "name": "Justus Nyamweya Nyagwencha, PhD"
+    },
+    {
+     "name": "Patrick Afundi"
+    },
+    {
+     "name": "Patrick Kanyi Wamuyu, PhD"
+    },
+    {
+     "name": "Phillip Gichaba Machoka"
+    },
+    {
+     "name": "Prof. Audrey Julia Waleghwa Mbogho"
+    },
+    {
+     "name": "Prof. Valerie Adema Palapala"
+    },
+    {
+     "name": "Prof. Amos Gitau Njuguna"
+    },
+    {
+     "name": "Dr. Francis Abuga Ndemo"
+    },
+    {
+     "name": "Dr. Jonathan Mwangi"
+    },
+    {
+     "name": "Dr. Betty Mbatia"
+    },
+    {
+     "name": "Dr. Were Lincoln Munyendo"
+    },
+    {
+     "name": "Dr. Jonathan Mwangi - External Research Grant"
+    },
+    {
+     "name": "Cyprian Mose Nyaribo"
+    },
+    {
+     "name": "Dr. Amuhaya, Edith Khavwajira"
+    },
+    {
+     "name": "Dr. Apollo Odhiambo Maima"
+    },
+    {
+     "name": "Dr. Betty Mbatia - External Research Grant"
+    },
+    {
+     "name": "Dr. Betty N. Mbatia"
+    },
+    {
+     "name": "Dr. Caroline Kahiri"
+    },
+    {
+     "name": "Dr. Defersha, Amsalu Degu"
+    },
+    {
+     "name": "Dr. Eliab Seroney Some"
+    },
+    {
+     "name": "Dr. Max Maina Muniafu"
+    },
+    {
+     "name": "Dr. Mwangi, Jonathan"
+    },
+    {
+     "name": "Dr. Noah, Naumih M."
+    },
+    {
+     "name": "Dr. Were Lincoln L. Munyendo"
+    },
+    {
+     "name": "Dr. Yasodha, Krishna Janapati"
+    },
+    {
+     "name": "Ermias, Mergia Terefe"
+    },
+    {
+     "name": "James Onyango Obila"
+    },
+    {
+     "name": "Mr. Isaac Chuma"
+    },
+    {
+     "name": "Mrs. Susan Nyambura"
+    },
+    {
+     "name": "Professor Njeri Wamae"
+    },
+    {
+     "name": "Dr. Were Lincoln Munyendo - External Research Grant"
+    },
+    {
+     "name": "Prof. Patrick James Ebewo"
+    },
+    {
+     "name": "Dorothy Njoroge, Ph.D"
+    },
+    {
+     "name": "Dr Stephen Kimotho"
+    },
+    {
+     "name": "Dr. Joseph Nyamwange Nyanoti"
+    },
+    {
+     "name": "Dr. Rachael Dianga"
+    },
+    {
+     "name": "Dr. Sikolia, Geoffrey Serede"
+    },
+    {
+     "name": "Isaiah K. Cherutich"
+    },
+    {
+     "name": "Mr. Owuor, Bernard Onyango"
+    },
+    {
+     "name": "Mr. Yego, Maxwell"
+    },
+    {
+     "name": "Ms. Robi Koki Ochieng"
+    },
+    {
+     "name": "Ndirangu Wachanga, Ph. D"
+    },
+    {
+     "name": "Nyabere, Emily"
+    },
+    {
+     "name": "Silvester Mutua Kisila James"
+    }
+   ]
+  }
+ ]
+}
